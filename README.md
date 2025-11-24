@@ -5,7 +5,7 @@ A professional football player management system built with React, Node.js, Expr
 ---
 
 ## 📋 Prerequisites
-
+- **React.js**
 - **Node.js** (v14 or higher)
 - **MySQL** (v5.7 or higher)
 - **npm** or **yarn**
