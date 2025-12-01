@@ -268,11 +268,6 @@ lsof -ti:3000 | xargs kill -9
 - Add **export to CSV/PDF** functionality
 - Implement **real-time updates** with WebSockets
 
----
-
-## 📝 License
-
-MIT License - feel free to use this for your portfolio or EA interview!
 
 ---
 
